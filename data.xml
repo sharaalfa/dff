@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE object SYSTEM "roles.dtd">
+<object type="People">
+    <field id="name" type="String" value="Марсель"/>
+    <field id="age" type="Integer" value="30"/>
+    <field id="salary" type="Double" value="1000000.0"/>
+</object>
